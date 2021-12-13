@@ -6,8 +6,6 @@
  - Deep Learning
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustVIII&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustVIII&layout=compact)](https://github.com/RyzhkovIlya/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
