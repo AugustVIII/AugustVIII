@@ -13,8 +13,8 @@
   
 
 <a href="https://t.me/augustVIII" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
-<a href="https://mail.google.com/mail/u/?authuser=faust.titov@gmail.ru" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="abdysheva.alsu@gmail.com" height="30" width="40" /></a>
-<a href="https://hh.ru/resume/5f20084fff095d24860039ed1f3441714a5753" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="abdysheva" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/?authuser=faust.titov@gmail.ru" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="faust.titov@gmail.ru" height="30" width="40" /></a>
+<a href="https://hh.ru/resume/91a70047ff05a665960039ed1f716e5962394f" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="titov" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/faustvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="titov" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
