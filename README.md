@@ -4,7 +4,7 @@
  - Data Analysis
  - Machine Learning
  - Deep Learning
-
+**You can see my projects in repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
