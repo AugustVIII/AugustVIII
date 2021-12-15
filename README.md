@@ -5,7 +5,7 @@
  - Machine Learning
  - Deep Learning
  
-**You can see my projects in repositories**
+**You can see my projects in pinned repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
