@@ -1,9 +1,13 @@
-# Hi there 👋 I'm Mark
+# O, Hi there 👋 I'm Mark
+
+![CaringLeadingIndianrockpython-mobile](https://github.com/AugustVIII/AugustVIII/assets/55592337/38b5a39c-1d51-4ed6-aded-1ffd588fa6f7)
+
 ## Data Scientist
 **I'm working with:**
  - Data Analysis
  - Machine Learning
  - Deep Learning
+
  
 **You can see my projects in pinned repositories**
 
